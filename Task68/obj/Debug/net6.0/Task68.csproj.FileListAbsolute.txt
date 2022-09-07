@@ -1,0 +1,15 @@
+C:\git\WorkWithC#\HomeWork9\Task68\obj\Debug\net6.0\Task68.csproj.AssemblyReference.cache
+C:\git\WorkWithC#\HomeWork9\Task68\obj\Debug\net6.0\Task68.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\WorkWithC#\HomeWork9\Task68\obj\Debug\net6.0\Task68.AssemblyInfoInputs.cache
+C:\git\WorkWithC#\HomeWork9\Task68\obj\Debug\net6.0\Task68.AssemblyInfo.cs
+C:\git\WorkWithC#\HomeWork9\Task68\obj\Debug\net6.0\Task68.csproj.CoreCompileInputs.cache
+C:\git\WorkWithC#\HomeWork9\Task68\bin\Debug\net6.0\Task68.exe
+C:\git\WorkWithC#\HomeWork9\Task68\bin\Debug\net6.0\Task68.deps.json
+C:\git\WorkWithC#\HomeWork9\Task68\bin\Debug\net6.0\Task68.runtimeconfig.json
+C:\git\WorkWithC#\HomeWork9\Task68\bin\Debug\net6.0\Task68.dll
+C:\git\WorkWithC#\HomeWork9\Task68\bin\Debug\net6.0\Task68.pdb
+C:\git\WorkWithC#\HomeWork9\Task68\obj\Debug\net6.0\Task68.dll
+C:\git\WorkWithC#\HomeWork9\Task68\obj\Debug\net6.0\refint\Task68.dll
+C:\git\WorkWithC#\HomeWork9\Task68\obj\Debug\net6.0\Task68.pdb
+C:\git\WorkWithC#\HomeWork9\Task68\obj\Debug\net6.0\Task68.genruntimeconfig.cache
+C:\git\WorkWithC#\HomeWork9\Task68\obj\Debug\net6.0\ref\Task68.dll
